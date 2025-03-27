@@ -1,2 +1,6 @@
 # PiPou_Music
-Musical Discord bot with server administration console
+
+## Configuration Requise
+
+  - OS Linux type Debian avec une gestion de paquets APT
+    
