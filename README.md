@@ -23,3 +23,5 @@ python3 pipou.py
 
 ### Fonctionnalités du bot pour le moment
 *D'autres fonctionnalités pourront être ajoutées à l'avenir*
+
+![image](https://github.com/user-attachments/assets/2265524a-e00d-464a-aded-d3513294a040)
