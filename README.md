@@ -15,4 +15,7 @@ chmod +x install.sh pipou.py
 ```bash
 sudo ./install.sh
 ```
-
+- Lancer la console comme ceci :
+```bash
+python3 pipou.py
+```
