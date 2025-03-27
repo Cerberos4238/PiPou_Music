@@ -19,3 +19,4 @@ sudo ./install.sh
 ```bash
 python3 pipou.py
 ```
+![image](https://github.com/user-attachments/assets/abe2025d-ca52-4e54-b148-e7abcca156b8)
