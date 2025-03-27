@@ -5,6 +5,10 @@
 ### Pré requis
   - OS Linux type Debian avec une gestion de paquets APT
   - Créer une application sur le portail developpeur Discord
+  - Générer un token dans le menu bot et l'ajouter dans ```pipou.py``` à la place de **TOKEN**
+    
+  ![image](https://github.com/user-attachments/assets/9d168ff8-09eb-4f73-8837-f69fecc0ca31)
+  
   - Avoir la permission d'ajouter un bot sur le serveur discord sur lequel l'application va être ajoutée
   - Dans le menu ```Bot``` mettre la permission ```Administrator```
     
@@ -15,11 +19,7 @@
     ![image](https://github.com/user-attachments/assets/51aeb5b1-271b-4fb0-af3b-9d40689b7fbd)
     ![image](https://github.com/user-attachments/assets/a2721648-c591-4d5f-8b59-70ad5114bac0)
 
-  - Copier le lien générer dans un navigateur pour ajouter l'application sur un serveur discord
-  - Générer un token dans le menu bot et l'ajouter dans ```pipou.py``` à la place de **TOKEN**
-  ![image](https://github.com/user-attachments/assets/9d168ff8-09eb-4f73-8837-f69fecc0ca31)
-
-
+  - Copier le lien générer dans un navigateur pour ajouter l'application sur le serveur discord
 
 ### Installation
 
