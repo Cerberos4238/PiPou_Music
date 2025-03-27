@@ -5,7 +5,7 @@
 ### Pré requis
   - OS Linux type Debian avec une gestion de paquets APT
   - Créer une application sur le portail developpeur Discord
-  - Dans le menu '''Bot''' mettre la permission ''Administrator''
+  - Dans le menu ```Bot``` mettre la permission ''Administrator''
 
 ### Installation
 
