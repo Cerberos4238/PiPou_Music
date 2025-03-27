@@ -11,5 +11,8 @@ OS Linux type Debian avec une gestion de paquets APT
 ```bash
 chmod +x install.sh pipou.py
 ```
+- Exécuter le fichier install.sh :
+```bash
+sudo ./install.sh
+```
 
-    
