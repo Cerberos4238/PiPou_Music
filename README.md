@@ -5,7 +5,7 @@
 ### OS Requis
 OS Linux type Debian avec une gestion de paquets APT
 
-#### Installation
+### Installation
 
 - Rendre éxécutables les fichiers avec chmod :
 ```bash
@@ -21,7 +21,7 @@ python3 pipou.py
 ```
 ![image](https://github.com/user-attachments/assets/abe2025d-ca52-4e54-b148-e7abcca156b8)
 
-#### Fonctionnalités du bot pour le moment
+### Fonctionnalités du bot pour le moment
 *D'autres fonctionnalités pourront être ajoutées à l'avenir*
 
 ![image](https://github.com/user-attachments/assets/2265524a-e00d-464a-aded-d3513294a040)
