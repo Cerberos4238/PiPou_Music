@@ -24,9 +24,9 @@
 ### Installation
 
 - Faire un git clone de l'application
-  ```bash
-  git clone https://github.com/Cerberos4238/PiPou_Music
-  ```
+```bash
+git clone https://github.com/Cerberos4238/PiPou_Music
+```
 - Rendre éxécutables les fichiers avec chmod :
 ```bash
 chmod +x install.sh pipou.py
