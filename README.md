@@ -5,7 +5,7 @@
 ### OS Requis
 OS Linux type Debian avec une gestion de paquets APT
 
-### Installation
+#### Installation
 
 - Rendre éxécutables les fichiers avec chmod :
 ```bash
