@@ -9,7 +9,7 @@ OS Linux type Debian avec une gestion de paquets APT
 
 - Rendre éxécutables les fichiers avec chmod :
 
-```yaml
+```bash
 chmod +x install.sh pipou.py
 ```
     
