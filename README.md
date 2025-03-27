@@ -7,7 +7,7 @@
   - Créer une application sur le portail developpeur Discord
   - Générer un token dans le menu bot et l'ajouter dans ```pipou.py``` à la place de **TOKEN**
     
-  ![image](https://github.com/user-attachments/assets/9d168ff8-09eb-4f73-8837-f69fecc0ca31)
+    ![image](https://github.com/user-attachments/assets/9d168ff8-09eb-4f73-8837-f69fecc0ca31)
   
   - Avoir la permission d'ajouter un bot sur le serveur discord sur lequel l'application va être ajoutée
   - Dans le menu ```Bot``` mettre la permission ```Administrator```
