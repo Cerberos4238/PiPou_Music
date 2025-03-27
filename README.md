@@ -3,9 +3,9 @@
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 ### Pré requis
-  - OS Linux type Debian avec une gestion de paquets APT
+  - OS Linux type **Debian** avec une gestion de paquets ```APT```
   - Créer une application sur le portail developpeur Discord
-  - Générer un token dans le menu bot et l'ajouter dans ```pipou.py``` à la place de **TOKEN**
+  - Générer un token dans le menu ```bot``` et l'ajouter dans ```pipou.py``` à la place de **TOKEN**
     
     ![image](https://github.com/user-attachments/assets/9d168ff8-09eb-4f73-8837-f69fecc0ca31)
   
