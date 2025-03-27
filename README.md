@@ -7,7 +7,7 @@
   - Créer une application sur le portail developpeur Discord
   - Dans le menu ```Bot``` mettre la permission ```Administrator```
     ![image](https://github.com/user-attachments/assets/1da61af5-33d9-48d2-9a1e-0a58f88db254)
-  - Dans le menu ```OAuth2```, générer un lien avec le **scopes** ```bot``` et la **permission** ``Àdministrator```
+  - Dans le menu ```OAuth2```, générer un lien avec le **scopes** ```bot``` et la **permission** ```Administrator```
     ![image](https://github.com/user-attachments/assets/51aeb5b1-271b-4fb0-af3b-9d40689b7fbd)
     ![image](https://github.com/user-attachments/assets/a2721648-c591-4d5f-8b59-70ad5114bac0)
 
